@@ -12,6 +12,6 @@ class Demo():
 d1=Demo()
 d1.read()
 d1.disp()
-
+print("After commit")
 d1.setValue(200)
 d1.disp()
